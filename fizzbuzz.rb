@@ -3,4 +3,5 @@
 def fizzbuzz(x)
   if x % 3 == 0
     "fizz"
+  end
 end
